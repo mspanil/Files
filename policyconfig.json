@@ -1,0 +1,152 @@
+﻿{
+    "EndpointDlpGlobalSettingsPsws":  [
+                                          {
+                                              "Setting":  "CloudAppMode",
+                                              "Value":  "Block"
+                                          },
+                                          {
+                                              "Setting":  "CloudAppRestrictionList",
+                                              "Value":  "www.dropbox.com"
+                                          },
+                                          {
+                                              "Setting":  "CloudAppRestrictionList",
+                                              "Value":  "mail.google.com"
+                                          },
+                                          {
+                                              "Setting":  "CloudAppRestrictionList",
+                                              "Value":  "outlook.live.com"
+                                          },
+                                          {
+                                              "Setting":  "CloudAppRestrictionList",
+                                              "Value":  "onedrive.live.com"
+                                          },
+                                          {
+                                              "Setting":  "CloudAppRestrictionList",
+                                              "Value":  "app.box.com"
+                                          },
+                                          {
+                                              "Setting":  "CloudAppRestrictionList",
+                                              "Value":  "drive.google.com"
+                                          },
+                                          {
+                                              "Setting":  "UnallowedApp",
+                                              "Value":  "Notepad++",
+                                              "Executable":  "notepad++.exe"
+                                          },
+                                          {
+                                              "Setting":  "UnallowedApp",
+                                              "Value":  "excel",
+                                              "Executable":  "excel.exe"
+                                          },
+                                          {
+                                              "Setting":  "UnallowedBrowser",
+                                              "Value":  "Firefox",
+                                              "Executable":  "firefox.exe"
+                                          },
+                                          {
+                                              "Setting":  "UnallowedBrowser",
+                                              "Value":  "Google Chrome",
+                                              "Executable":  "chrome.exe"
+                                          },
+                                          {
+                                              "Setting":  "MacDefaultPathExclusionsEnabled",
+                                              "Value":  "false"
+                                          },
+                                          {
+                                              "Setting":  "CustomBusinessJustificationNotification",
+                                              "Value":  "3"
+                                          },
+                                          {
+                                              "Setting":  "AdvancedClassificationEnabled",
+                                              "Value":  "true"
+                                          },
+                                          {
+                                              "Setting":  "BandwidthLimitEnabled",
+                                              "Value":  "false"
+                                          },
+                                          {
+                                              "Setting":  "DailyBandwidthLimitInMB",
+                                              "Value":  "0"
+                                          },
+                                          {
+
+                                          },
+                                          {
+
+                                          },
+                                          {
+                                              "Setting":  "EvidenceStoreSettings",
+                                              "Value":  "{\r\n  \"FileEvidenceIsEnabled\": true,\r\n  \"NumberOfDaysToRetain\": 7,\r\n  \"StorageAccounts\": [],\r\n  \"Store\": \"CustomerManaged\"\r\n}"
+                                          }
+                                      ],
+    "DlpAppGroupsPsws":  null,
+    "SiteGroupsPsws":  null,
+    "DlpPrinterGroupsPsws":  null,
+    "DlpRemovableMediaGroupsPsws":  null,
+    "DlpNetworkShareGroupsPsws":  null,
+    "DlpExtensionGroupsPsws":  null,
+    "EnableSpoAipMigration":  false,
+    "ReservedForFutureUse":  false,
+    "PurviewLabelConsent":  true,
+    "PurviewLabelConsentCaller":  "cbabd291-ae01-4952-8279-2f7b446890fb",
+    "PurviewLabelConsentTime":  "09/12/2020 17:25:53",
+    "ExtendTeamsDlpToSpoOdbConsent":  true,
+    "ExtendTeamsDlpToSpoOdbConsentCaller":  "b7d40929-ab7d-477f-808d-9204b26c53dd",
+    "ExtendTeamsDlpToSpoOdbConsentTime":  "3/3/2023 12:40:09 PM",
+    "MaxClassificationCountLimit":  500,
+    "LabelScheme":  "Legacy",
+    "ComplianceUrl":  "",
+    "CustomClassificationMigrationStatus":  "",
+    "OnPremisesWorkload":  "None",
+    "RuleErrorAction":  "Ignore",
+    "ProcessingLimitExceededSeverity":  "None",
+    "DocumentIsUnsupportedSeverity":  "None",
+    "SenderAddressLocation":  "Header",
+    "CaseHoldPolicyLimit":  10000,
+    "RetentionForwardCrawl":  false,
+    "SensitiveInformationScanTimeWindowExo":  null,
+    "EndpointDlpGlobalSettings":  "[{\"Value\":\"Block\",\"Setting\":\"CloudAppMode\"},{\"Value\":\"www.dropbox.com\",\"Setting\":\"CloudAppRestrictionList\"},{\"Value\":\"mail.google.com\",\"Setting\":\"CloudAppRestrictionList\"},{\"Value\":\"outlook.live.com\",\"Setting\":\"CloudAppRestrictionList\"},{\"Value\":\"onedrive.live.com\",\"Setting\":\"CloudAppRestrictionList\"},{\"Value\":\"app.box.com\",\"Setting\":\"CloudAppRestrictionList\"},{\"Value\":\"drive.google.com\",\"Setting\":\"CloudAppRestrictionList\"},{\"Value\":\"Notepad++\",\"Executable\":\"notepad++.exe\",\"Setting\":\"UnallowedApp\"},{\"Value\":\"excel\",\"Executable\":\"excel.exe\",\"Setting\":\"UnallowedApp\"},{\"Value\":\"Firefox\",\"Executable\":\"firefox.exe\",\"Setting\":\"UnallowedBrowser\"},{\"Value\":\"Google Chrome\",\"Executable\":\"chrome.exe\",\"Setting\":\"UnallowedBrowser\"},{\"Value\":\"false\",\"Setting\":\"MacDefaultPathExclusionsEnabled\"},{\"Value\":\"3\",\"Setting\":\"CustomBusinessJustificationNotification\"},{\"Value\":\"true\",\"Setting\":\"AdvancedClassificationEnabled\"},{\"Value\":\"false\",\"Setting\":\"BandwidthLimitEnabled\"},{\"Value\":\"0\",\"Setting\":\"DailyBandwidthLimitInMB\"},{},{},{\"Value\":\"{\\u000d\\u000a  \\\"FileEvidenceIsEnabled\\\": true,\\u000d\\u000a  \\\"NumberOfDaysToRetain\\\": 7,\\u000d\\u000a  \\\"StorageAccounts\\\": [],\\u000d\\u000a  \\\"Store\\\": \\\"CustomerManaged\\\"\\u000d\\u000a}\",\"Setting\":\"EvidenceStoreSettings\"}]",
+    "DlpAppGroups":  "",
+    "MessageHeadersToRetainInOutlook":  "",
+    "SiteGroups":  "",
+    "DlpPrinterGroups":  "",
+    "DlpRemovableMediaGroups":  "",
+    "DlpNetworkShareGroups":  "",
+    "JitEnforcementSettings":  "",
+    "DlpExtensionGroups":  "",
+    "EnableLabelCoauth":  false,
+    "EnableAdvancedRuleBuilder":  false,
+    "HasAdvancedRuleBuilderConfigBeenSet":  false,
+    "IsDlpSimulationOptedIn":  false,
+    "IsEventFoldingOnDlpAlertsOptedOut":  false,
+    "EnableSensitivityLabelingForPdf":  false,
+    "ClassificationScheme":  "V1_DetailedResults",
+    "InformationBarrierMode":  "Legacy",
+    "InformationBarrierPeopleSearchRestriction":  "Enabled",
+    "PurviewLabelConsentDetails":  "{\"Consent\":true,\"Caller\":\"cbabd291-ae01-4952-8279-2f7b446890fb\",\"Time\":\"09/12/2020 17:25:53\"}",
+    "ExtendTeamsDlpToSpoOdbConsentDetails":  "{\"Consent\":true,\"Caller\":\"b7d40929-ab7d-477f-808d-9204b26c53dd\",\"Time\":\"3/3/2023 12:40:09 PM\"}",
+    "IsDefaultMlDlpPoliciesOptedOut":  false,
+    "TextExtractionConfig":  "{\"OcrEnabled\": false}",
+    "LabelSchemeMigrationConfig":  "",
+    "AdminDisplayName":  "Settings",
+    "ExchangeVersion":  "0.20 (15.0.0.0)",
+    "Name":  "Settings",
+    "DistinguishedName":  "CN=Settings,CN=Unified Policy Settings,CN=Configuration,CN=wmslab.onmicrosoft.com,CN=ConfigurationUnits,DC=INDPR01A001,DC=PROD,DC=OUTLOOK,DC=COM",
+    "Identity":  "wmslab.onmicrosoft.com\\Settings",
+    "ObjectCategory":  null,
+    "ObjectClass":  [
+                        "msExchSenderReputation"
+                    ],
+    "WhenChanged":  null,
+    "WhenCreated":  null,
+    "WhenChangedUTC":  null,
+    "WhenCreatedUTC":  null,
+    "ExchangeObjectId":  "a69af720-eec2-437a-86c9-cb051120efa8",
+    "OrganizationalUnitRoot":  null,
+    "OrganizationId":  "",
+    "Id":  "wmslab.onmicrosoft.com\\Settings",
+    "Guid":  "a69af720-eec2-437a-86c9-cb051120efa8",
+    "OriginatingServer":  "MA0PR01A01DC003.INDPR01A001.PROD.OUTLOOK.COM",
+    "IsValid":  true,
+    "ObjectState":  "New"
+}

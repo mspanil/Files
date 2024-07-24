@@ -1,0 +1,1798 @@
+﻿[
+    {
+        "Mode":  "TestWithNotifications",
+        "DisplayName":  "teamblock",
+        "Type":  "Dlp",
+        "ExchangeLocation":  [
+                                 {
+                                     "DisplayName":  "All",
+                                     "Name":  "All",
+                                     "ImmutableIdentity":  "All",
+                                     "Type":  {
+                                                  "value":  1,
+                                                  "Value":  "Tenant"
+                                              },
+                                     "Status":  {
+                                                    "value":  2,
+                                                    "Value":  "Success"
+                                                },
+                                     "Workload":  {
+                                                      "value":  1,
+                                                      "Value":  "Exchange"
+                                                  },
+                                     "SourceType":  null,
+                                     "SchemaVersion":  2,
+                                     "Resources":  null
+                                 }
+                             ],
+        "SharePointLocation":  [
+                                   {
+                                       "DisplayName":  "All",
+                                       "Name":  "All",
+                                       "ImmutableIdentity":  "All",
+                                       "Type":  {
+                                                    "value":  1,
+                                                    "Value":  "Tenant"
+                                                },
+                                       "Status":  {
+                                                      "value":  2,
+                                                      "Value":  "Success"
+                                                  },
+                                       "Workload":  {
+                                                        "value":  2,
+                                                        "Value":  "SharePoint"
+                                                    },
+                                       "SourceType":  null,
+                                       "SchemaVersion":  2,
+                                       "Resources":  null
+                                   }
+                               ],
+        "SharePointLocationException":  [
+
+                                        ],
+        "OneDriveLocation":  [
+                                 {
+                                     "DisplayName":  "All",
+                                     "Name":  "All",
+                                     "ImmutableIdentity":  "All",
+                                     "Type":  {
+                                                  "value":  1,
+                                                  "Value":  "Tenant"
+                                              },
+                                     "Status":  {
+                                                    "value":  2,
+                                                    "Value":  "Success"
+                                                },
+                                     "Workload":  {
+                                                      "value":  8,
+                                                      "Value":  "OneDriveForBusiness"
+                                                  },
+                                     "SourceType":  null,
+                                     "SchemaVersion":  2,
+                                     "Resources":  null
+                                 }
+                             ],
+        "OneDriveLocationException":  [
+
+                                      ],
+        "ExchangeOnPremisesLocation":  [
+
+                                       ],
+        "SharePointOnPremisesLocation":  [
+
+                                         ],
+        "SharePointOnPremisesLocationException":  [
+
+                                                  ],
+        "TeamsLocation":  [
+                              {
+                                  "DisplayName":  "msp anil. Ranjan",
+                                  "Name":  "msp.anilr@wmslab.net",
+                                  "ImmutableIdentity":  "b7d40929-ab7d-477f-808d-9204b26c53dd",
+                                  "Type":  {
+                                               "value":  0,
+                                               "Value":  "IndividualResource"
+                                           },
+                                  "Status":  {
+                                                 "value":  2,
+                                                 "Value":  "Success"
+                                             },
+                                  "Workload":  {
+                                                   "value":  2048,
+                                                   "Value":  "Teams"
+                                               },
+                                  "SourceType":  null,
+                                  "SchemaVersion":  2,
+                                  "Resources":  null
+                              },
+                              {
+                                  "DisplayName":  "Pribet_Team",
+                                  "Name":  "Pribet_Team@wmslab.net",
+                                  "ImmutableIdentity":  "e34c759c-3aa1-4443-9281-41bdc4eabc30",
+                                  "Type":  {
+                                               "value":  0,
+                                               "Value":  "IndividualResource"
+                                           },
+                                  "Status":  {
+                                                 "value":  2,
+                                                 "Value":  "Success"
+                                             },
+                                  "Workload":  {
+                                                   "value":  2048,
+                                                   "Value":  "Teams"
+                                               },
+                                  "SourceType":  null,
+                                  "SchemaVersion":  2,
+                                  "Resources":  null
+                              },
+                              {
+                                  "DisplayName":  "HRteam",
+                                  "Name":  "HRteam@wmslab.onmicrosoft.com",
+                                  "ImmutableIdentity":  "c6b77249-55a4-432d-98db-b95467d17ba6",
+                                  "Type":  {
+                                               "value":  3,
+                                               "Value":  "Group"
+                                           },
+                                  "Status":  {
+                                                 "value":  2,
+                                                 "Value":  "Success"
+                                             },
+                                  "Workload":  {
+                                                   "value":  2048,
+                                                   "Value":  "Teams"
+                                               },
+                                  "SourceType":  null,
+                                  "SchemaVersion":  2,
+                                  "Resources":  null
+                              },
+                              {
+                                  "DisplayName":  "AllUsers",
+                                  "Name":  "AllUsers@wmslab.net",
+                                  "ImmutableIdentity":  "b1d8b14c-72d4-4a7d-a27b-93e209c82353",
+                                  "Type":  {
+                                               "value":  0,
+                                               "Value":  "IndividualResource"
+                                           },
+                                  "Status":  {
+                                                 "value":  2,
+                                                 "Value":  "Success"
+                                             },
+                                  "Workload":  {
+                                                   "value":  2048,
+                                                   "Value":  "Teams"
+                                               },
+                                  "SourceType":  null,
+                                  "SchemaVersion":  2,
+                                  "Resources":  null
+                              }
+                          ],
+        "TeamsLocationException":  [
+
+                                   ],
+        "EndpointDlpLocation":  [
+
+                                ],
+        "EndpointDlpLocationException":  [
+
+                                         ],
+        "ThirdPartyAppDlpLocation":  [
+
+                                     ],
+        "ThirdPartyAppDlpLocationException":  [
+
+                                              ],
+        "OnPremisesScannerDlpLocation":  [
+
+                                         ],
+        "OnPremisesScannerDlpLocationException":  [
+
+                                                  ],
+        "PowerBIDlpLocation":  [
+
+                               ],
+        "PowerBIDlpLocationException":  [
+
+                                        ],
+        "Locations":  "",
+        "LocationInclusions":  [
+
+                               ],
+        "LocationExclusions":  [
+
+                               ],
+        "EndpointDlpExtendedLocations":  "",
+        "ExchangeSender":  [
+
+                           ],
+        "ExchangeSenderException":  [
+
+                                    ],
+        "PolicyTemplateInfo":  {
+
+                               },
+        "MatchedItemsCount":  null,
+        "TotalItemsCount":  null,
+        "TopNLocationStatistics":  null,
+        "WorkloadStatistics":  null,
+        "IsSimulationPolicy":  true,
+        "SimulationStatus":  null,
+        "AutoEnableAfter":  null,
+        "IsFromSmartInsights":  null,
+        "IsColdDataSimulationPolicy":  false,
+        "ExtendedProperties":  null,
+        "Summary":  false,
+        "OneDriveSharedBy":  [
+
+                             ],
+        "ExceptIfOneDriveSharedBy":  [
+
+                                     ],
+        "OneDriveSharedByMemberOf":  [
+
+                                     ],
+        "ExceptIfOneDriveSharedByMemberOf":  [
+
+                                             ],
+        "ExchangeSenderMemberOf":  [
+
+                                   ],
+        "ExchangeSenderMemberOfException":  [
+
+                                            ],
+        "ExchangeAdaptiveScopes":  null,
+        "ExchangeAdaptiveScopesException":  null,
+        "SharePointAdaptiveScopes":  null,
+        "SharePointAdaptiveScopesException":  null,
+        "OneDriveAdaptiveScopes":  null,
+        "OneDriveAdaptiveScopesException":  null,
+        "TeamsAdaptiveScopes":  null,
+        "TeamsAdaptiveScopesException":  null,
+        "EndpointDlpAdaptiveScopes":  null,
+        "EndpointDlpAdaptiveScopesException":  null,
+        "ExpectedLocations":  0,
+        "CompletedLocations":  0,
+        "FailedLocations":  0,
+        "ItemStatistics":  null,
+        "RuleMatchBlob":  null,
+        "ErrorMetadata":  null,
+        "UserAdministrativeUnitMembershipMap":  null,
+        "ForceValidate":  false,
+        "PolicyRulesMetaData":  "",
+        "ReusableComponentType":  "Unknown",
+        "Workload":  "Exchange, SharePoint, OneDriveForBusiness, Teams",
+        "Priority":  0,
+        "ObjectVersion":  "4be38bba-567d-4295-c9b5-08d97d271183",
+        "CreatedBy":  "msp anil. Ranjan",
+        "LastModifiedBy":  "msp anil. Ranjan",
+        "ReadOnly":  false,
+        "ExternalIdentity":  "",
+        "Comment":  "Create a custom policy from scratch. You will choose the type of content to protect and how you want to protect it.",
+        "Enabled":  true,
+        "DistributionStatus":  "Pending",
+        "DistributionSyncStatus":  "Unknown",
+        "DistributionResults":  null,
+        "LastStatusUpdateTime":  null,
+        "ModificationTimeUtc":  "\/Date(1632246100067)\/",
+        "CreationTimeUtc":  "\/Date(1632235584023)\/",
+        "PolicyRBACScopes":  null,
+        "Identity":  "FFO.extest.microsoft.com/Microsoft Exchange Hosted Organizations/wmslab.onmicrosoft.com/Configuration/teamblock",
+        "Id":  "FFO.extest.microsoft.com/Microsoft Exchange Hosted Organizations/wmslab.onmicrosoft.com/Configuration/teamblock",
+        "IsValid":  true,
+        "ExchangeVersion":  "0.20 (15.0.0.0)",
+        "Name":  "teamblock",
+        "DistinguishedName":  "CN=teamblock,CN=Configuration,CN=wmslab.onmicrosoft.com,OU=Microsoft Exchange Hosted Organizations,DC=FFO,DC=extest,DC=microsoft,DC=com",
+        "ObjectCategory":  null,
+        "ObjectClass":  [
+                            "msExchUnifiedPolicy"
+                        ],
+        "WhenChanged":  "\/Date(1632246099000)\/",
+        "WhenCreated":  "\/Date(1632235584000)\/",
+        "WhenChangedUTC":  "\/Date(1632246099000)\/",
+        "WhenCreatedUTC":  "\/Date(1632235584000)\/",
+        "ExchangeObjectId":  "36486880-a1ee-43e8-96bf-095c40ee92e5",
+        "OrganizationalUnitRoot":  "FFO.extest.microsoft.com/Microsoft Exchange Hosted Organizations/wmslab.onmicrosoft.com",
+        "OrganizationId":  "FFO.extest.microsoft.com/Microsoft Exchange Hosted Organizations/wmslab.onmicrosoft.com - FFO.extest.microsoft.com/Microsoft Exchange Hosted Organizations/wmslab.onmicrosoft.com/Configuration",
+        "Guid":  "36486880-a1ee-43e8-96bf-095c40ee92e5",
+        "OriginatingServer":  "",
+        "ObjectState":  "Changed"
+    },
+    {
+        "Mode":  "Enable",
+        "DisplayName":  "U.S. Financial Data",
+        "Type":  "Dlp",
+        "ExchangeLocation":  [
+
+                             ],
+        "SharePointLocation":  [
+
+                               ],
+        "SharePointLocationException":  [
+
+                                        ],
+        "OneDriveLocation":  [
+
+                             ],
+        "OneDriveLocationException":  [
+
+                                      ],
+        "ExchangeOnPremisesLocation":  [
+
+                                       ],
+        "SharePointOnPremisesLocation":  [
+
+                                         ],
+        "SharePointOnPremisesLocationException":  [
+
+                                                  ],
+        "TeamsLocation":  [
+                              {
+                                  "DisplayName":  "All",
+                                  "Name":  "All",
+                                  "ImmutableIdentity":  "All",
+                                  "Type":  {
+                                               "value":  1,
+                                               "Value":  "Tenant"
+                                           },
+                                  "Status":  {
+                                                 "value":  2,
+                                                 "Value":  "Success"
+                                             },
+                                  "Workload":  {
+                                                   "value":  2048,
+                                                   "Value":  "Teams"
+                                               },
+                                  "SourceType":  null,
+                                  "SchemaVersion":  2,
+                                  "Resources":  null
+                              }
+                          ],
+        "TeamsLocationException":  [
+
+                                   ],
+        "EndpointDlpLocation":  [
+                                    {
+                                        "DisplayName":  "DataSec",
+                                        "Name":  "DataSec@wmslab.net",
+                                        "ImmutableIdentity":  "b2823e79-e226-47c2-9328-068f886d9095",
+                                        "Type":  {
+                                                     "value":  3,
+                                                     "Value":  "Group"
+                                                 },
+                                        "Status":  {
+                                                       "value":  2,
+                                                       "Value":  "Success"
+                                                   },
+                                        "Workload":  {
+                                                         "value":  8192,
+                                                         "Value":  "EndpointDevices"
+                                                     },
+                                        "SourceType":  null,
+                                        "SchemaVersion":  2,
+                                        "Resources":  null
+                                    }
+                                ],
+        "EndpointDlpLocationException":  [
+
+                                         ],
+        "ThirdPartyAppDlpLocation":  [
+
+                                     ],
+        "ThirdPartyAppDlpLocationException":  [
+
+                                              ],
+        "OnPremisesScannerDlpLocation":  [
+                                             {
+                                                 "DisplayName":  "All",
+                                                 "Name":  "All",
+                                                 "ImmutableIdentity":  "All",
+                                                 "Type":  {
+                                                              "value":  1,
+                                                              "Value":  "Tenant"
+                                                          },
+                                                 "Status":  {
+                                                                "value":  2,
+                                                                "Value":  "Success"
+                                                            },
+                                                 "Workload":  {
+                                                                  "value":  32768,
+                                                                  "Value":  "OnPremisesScanner"
+                                                              },
+                                                 "SourceType":  null,
+                                                 "SchemaVersion":  2,
+                                                 "Resources":  null
+                                             }
+                                         ],
+        "OnPremisesScannerDlpLocationException":  [
+
+                                                  ],
+        "PowerBIDlpLocation":  [
+
+                               ],
+        "PowerBIDlpLocationException":  [
+
+                                        ],
+        "Locations":  "",
+        "LocationInclusions":  [
+
+                               ],
+        "LocationExclusions":  [
+
+                               ],
+        "EndpointDlpExtendedLocations":  "",
+        "ExchangeSender":  [
+
+                           ],
+        "ExchangeSenderException":  [
+
+                                    ],
+        "PolicyTemplateInfo":  {
+
+                               },
+        "MatchedItemsCount":  null,
+        "TotalItemsCount":  null,
+        "TopNLocationStatistics":  null,
+        "WorkloadStatistics":  null,
+        "IsSimulationPolicy":  false,
+        "SimulationStatus":  null,
+        "AutoEnableAfter":  null,
+        "IsFromSmartInsights":  null,
+        "IsColdDataSimulationPolicy":  false,
+        "ExtendedProperties":  null,
+        "Summary":  false,
+        "OneDriveSharedBy":  [
+
+                             ],
+        "ExceptIfOneDriveSharedBy":  [
+
+                                     ],
+        "OneDriveSharedByMemberOf":  [
+
+                                     ],
+        "ExceptIfOneDriveSharedByMemberOf":  [
+
+                                             ],
+        "ExchangeSenderMemberOf":  [
+
+                                   ],
+        "ExchangeSenderMemberOfException":  [
+
+                                            ],
+        "ExchangeAdaptiveScopes":  null,
+        "ExchangeAdaptiveScopesException":  null,
+        "SharePointAdaptiveScopes":  null,
+        "SharePointAdaptiveScopesException":  null,
+        "OneDriveAdaptiveScopes":  null,
+        "OneDriveAdaptiveScopesException":  null,
+        "TeamsAdaptiveScopes":  null,
+        "TeamsAdaptiveScopesException":  null,
+        "EndpointDlpAdaptiveScopes":  null,
+        "EndpointDlpAdaptiveScopesException":  null,
+        "ExpectedLocations":  0,
+        "CompletedLocations":  0,
+        "FailedLocations":  0,
+        "ItemStatistics":  null,
+        "RuleMatchBlob":  null,
+        "ErrorMetadata":  null,
+        "UserAdministrativeUnitMembershipMap":  null,
+        "ForceValidate":  false,
+        "PolicyRulesMetaData":  "{\"WhenRulesChangedUtc\":\"2024-05-13T15:29:02.7686886Z\"}",
+        "ReusableComponentType":  "Unknown",
+        "Workload":  "Exchange, SharePoint, OneDriveForBusiness, Teams, EndpointDevices, OnPremisesScanner",
+        "Priority":  1,
+        "ObjectVersion":  "25992a24-3ad4-440f-fde6-08dc73616b38",
+        "CreatedBy":  "b6b6f5a9-c63f-49c1-9b2c-311b6c01f987",
+        "LastModifiedBy":  "msp anil. Ranjan",
+        "ReadOnly":  false,
+        "ExternalIdentity":  "",
+        "Comment":  "Helps detect the presence of information commonly considered to be financial information in United States, including information like credit card, account information, and debit card numbers.",
+        "Enabled":  true,
+        "DistributionStatus":  "Pending",
+        "DistributionSyncStatus":  "Unknown",
+        "DistributionResults":  null,
+        "LastStatusUpdateTime":  null,
+        "ModificationTimeUtc":  "\/Date(1715614142770)\/",
+        "CreationTimeUtc":  "\/Date(1631097469093)\/",
+        "PolicyRBACScopes":  [
+
+                             ],
+        "Identity":  "FFO.extest.microsoft.com/Microsoft Exchange Hosted Organizations/wmslab.onmicrosoft.com/Configuration/U.S. Financial Data",
+        "Id":  "FFO.extest.microsoft.com/Microsoft Exchange Hosted Organizations/wmslab.onmicrosoft.com/Configuration/U.S. Financial Data",
+        "IsValid":  true,
+        "ExchangeVersion":  "0.20 (15.0.0.0)",
+        "Name":  "U.S. Financial Data",
+        "DistinguishedName":  "CN=U.S. Financial Data,CN=Configuration,CN=wmslab.onmicrosoft.com,OU=Microsoft Exchange Hosted Organizations,DC=FFO,DC=extest,DC=microsoft,DC=com",
+        "ObjectCategory":  null,
+        "ObjectClass":  [
+                            "msExchUnifiedPolicy"
+                        ],
+        "WhenChanged":  "\/Date(1715614142000)\/",
+        "WhenCreated":  "\/Date(1631097469000)\/",
+        "WhenChangedUTC":  "\/Date(1715614142000)\/",
+        "WhenCreatedUTC":  "\/Date(1631097469000)\/",
+        "ExchangeObjectId":  "58d7c72f-6bc9-4127-85c2-6cb81e54e018",
+        "OrganizationalUnitRoot":  "FFO.extest.microsoft.com/Microsoft Exchange Hosted Organizations/wmslab.onmicrosoft.com",
+        "OrganizationId":  "FFO.extest.microsoft.com/Microsoft Exchange Hosted Organizations/wmslab.onmicrosoft.com - FFO.extest.microsoft.com/Microsoft Exchange Hosted Organizations/wmslab.onmicrosoft.com/Configuration",
+        "Guid":  "58d7c72f-6bc9-4127-85c2-6cb81e54e018",
+        "OriginatingServer":  "",
+        "ObjectState":  "Changed"
+    },
+    {
+        "Mode":  "TestWithNotifications",
+        "DisplayName":  "datarisk check - Exchange online",
+        "Type":  "Dlp",
+        "ExchangeLocation":  [
+                                 {
+                                     "DisplayName":  "All",
+                                     "Name":  "All",
+                                     "ImmutableIdentity":  "All",
+                                     "Type":  {
+                                                  "value":  1,
+                                                  "Value":  "Tenant"
+                                              },
+                                     "Status":  {
+                                                    "value":  2,
+                                                    "Value":  "Success"
+                                                },
+                                     "Workload":  {
+                                                      "value":  1,
+                                                      "Value":  "Exchange"
+                                                  },
+                                     "SourceType":  null,
+                                     "SchemaVersion":  2,
+                                     "Resources":  null
+                                 }
+                             ],
+        "SharePointLocation":  [
+                                   {
+                                       "DisplayName":  "All",
+                                       "Name":  "All",
+                                       "ImmutableIdentity":  "All",
+                                       "Type":  {
+                                                    "value":  1,
+                                                    "Value":  "Tenant"
+                                                },
+                                       "Status":  {
+                                                      "value":  2,
+                                                      "Value":  "Success"
+                                                  },
+                                       "Workload":  {
+                                                        "value":  2,
+                                                        "Value":  "SharePoint"
+                                                    },
+                                       "SourceType":  null,
+                                       "SchemaVersion":  2,
+                                       "Resources":  null
+                                   }
+                               ],
+        "SharePointLocationException":  [
+
+                                        ],
+        "OneDriveLocation":  [
+                                 {
+                                     "DisplayName":  "All",
+                                     "Name":  "All",
+                                     "ImmutableIdentity":  "All",
+                                     "Type":  {
+                                                  "value":  1,
+                                                  "Value":  "Tenant"
+                                              },
+                                     "Status":  {
+                                                    "value":  2,
+                                                    "Value":  "Success"
+                                                },
+                                     "Workload":  {
+                                                      "value":  8,
+                                                      "Value":  "OneDriveForBusiness"
+                                                  },
+                                     "SourceType":  null,
+                                     "SchemaVersion":  2,
+                                     "Resources":  null
+                                 }
+                             ],
+        "OneDriveLocationException":  [
+
+                                      ],
+        "ExchangeOnPremisesLocation":  [
+
+                                       ],
+        "SharePointOnPremisesLocation":  [
+
+                                         ],
+        "SharePointOnPremisesLocationException":  [
+
+                                                  ],
+        "TeamsLocation":  [
+                              {
+                                  "DisplayName":  "All",
+                                  "Name":  "All",
+                                  "ImmutableIdentity":  "All",
+                                  "Type":  {
+                                               "value":  1,
+                                               "Value":  "Tenant"
+                                           },
+                                  "Status":  {
+                                                 "value":  2,
+                                                 "Value":  "Success"
+                                             },
+                                  "Workload":  {
+                                                   "value":  2048,
+                                                   "Value":  "Teams"
+                                               },
+                                  "SourceType":  null,
+                                  "SchemaVersion":  2,
+                                  "Resources":  null
+                              }
+                          ],
+        "TeamsLocationException":  [
+
+                                   ],
+        "EndpointDlpLocation":  [
+
+                                ],
+        "EndpointDlpLocationException":  [
+
+                                         ],
+        "ThirdPartyAppDlpLocation":  [
+
+                                     ],
+        "ThirdPartyAppDlpLocationException":  [
+
+                                              ],
+        "OnPremisesScannerDlpLocation":  [
+
+                                         ],
+        "OnPremisesScannerDlpLocationException":  [
+
+                                                  ],
+        "PowerBIDlpLocation":  [
+
+                               ],
+        "PowerBIDlpLocationException":  [
+
+                                        ],
+        "Locations":  "",
+        "LocationInclusions":  [
+
+                               ],
+        "LocationExclusions":  [
+
+                               ],
+        "EndpointDlpExtendedLocations":  "",
+        "ExchangeSender":  [
+
+                           ],
+        "ExchangeSenderException":  [
+
+                                    ],
+        "PolicyTemplateInfo":  null,
+        "MatchedItemsCount":  null,
+        "TotalItemsCount":  null,
+        "TopNLocationStatistics":  null,
+        "WorkloadStatistics":  null,
+        "IsSimulationPolicy":  true,
+        "SimulationStatus":  null,
+        "AutoEnableAfter":  null,
+        "IsFromSmartInsights":  null,
+        "IsColdDataSimulationPolicy":  false,
+        "ExtendedProperties":  null,
+        "Summary":  false,
+        "OneDriveSharedBy":  [
+
+                             ],
+        "ExceptIfOneDriveSharedBy":  [
+
+                                     ],
+        "OneDriveSharedByMemberOf":  [
+
+                                     ],
+        "ExceptIfOneDriveSharedByMemberOf":  [
+
+                                             ],
+        "ExchangeSenderMemberOf":  [
+
+                                   ],
+        "ExchangeSenderMemberOfException":  [
+
+                                            ],
+        "ExchangeAdaptiveScopes":  null,
+        "ExchangeAdaptiveScopesException":  null,
+        "SharePointAdaptiveScopes":  null,
+        "SharePointAdaptiveScopesException":  null,
+        "OneDriveAdaptiveScopes":  null,
+        "OneDriveAdaptiveScopesException":  null,
+        "TeamsAdaptiveScopes":  null,
+        "TeamsAdaptiveScopesException":  null,
+        "EndpointDlpAdaptiveScopes":  null,
+        "EndpointDlpAdaptiveScopesException":  null,
+        "ExpectedLocations":  0,
+        "CompletedLocations":  0,
+        "FailedLocations":  0,
+        "ItemStatistics":  null,
+        "RuleMatchBlob":  null,
+        "ErrorMetadata":  null,
+        "UserAdministrativeUnitMembershipMap":  null,
+        "ForceValidate":  false,
+        "PolicyRulesMetaData":  "{\"WhenRulesChangedUtc\":\"2024-05-13T15:29:33.8623195Z\"}",
+        "ReusableComponentType":  "Unknown",
+        "Workload":  "Exchange, SharePoint, OneDriveForBusiness, Teams",
+        "Priority":  2,
+        "ObjectVersion":  "c6460a1d-d84b-4c10-80db-08dc73617dc1",
+        "CreatedBy":  "b6b6f5a9-c63f-49c1-9b2c-311b6c01f987",
+        "LastModifiedBy":  "msp anil. Ranjan",
+        "ReadOnly":  false,
+        "ExternalIdentity":  "",
+        "Comment":  "Create a custom policy from scratch. You will choose the type of content to protect and how you want to protect it.",
+        "Enabled":  true,
+        "DistributionStatus":  "Pending",
+        "DistributionSyncStatus":  "Unknown",
+        "DistributionResults":  null,
+        "LastStatusUpdateTime":  null,
+        "ModificationTimeUtc":  "\/Date(1715614173863)\/",
+        "CreationTimeUtc":  "\/Date(1648638128917)\/",
+        "PolicyRBACScopes":  [
+
+                             ],
+        "Identity":  "FFO.extest.microsoft.com/Microsoft Exchange Hosted Organizations/wmslab.onmicrosoft.com/Configuration/datarisk check - Exchange online",
+        "Id":  "FFO.extest.microsoft.com/Microsoft Exchange Hosted Organizations/wmslab.onmicrosoft.com/Configuration/datarisk check - Exchange online",
+        "IsValid":  true,
+        "ExchangeVersion":  "0.20 (15.0.0.0)",
+        "Name":  "datarisk check - Exchange online",
+        "DistinguishedName":  "CN=datarisk check - Exchange online,CN=Configuration,CN=wmslab.onmicrosoft.com,OU=Microsoft Exchange Hosted Organizations,DC=FFO,DC=extest,DC=microsoft,DC=com",
+        "ObjectCategory":  null,
+        "ObjectClass":  [
+                            "msExchUnifiedPolicy"
+                        ],
+        "WhenChanged":  "\/Date(1715614173000)\/",
+        "WhenCreated":  "\/Date(1648638128000)\/",
+        "WhenChangedUTC":  "\/Date(1715614173000)\/",
+        "WhenCreatedUTC":  "\/Date(1648638128000)\/",
+        "ExchangeObjectId":  "f8ace0a1-caf4-4a1e-ae48-dc07f2965a2a",
+        "OrganizationalUnitRoot":  "FFO.extest.microsoft.com/Microsoft Exchange Hosted Organizations/wmslab.onmicrosoft.com",
+        "OrganizationId":  "FFO.extest.microsoft.com/Microsoft Exchange Hosted Organizations/wmslab.onmicrosoft.com - FFO.extest.microsoft.com/Microsoft Exchange Hosted Organizations/wmslab.onmicrosoft.com/Configuration",
+        "Guid":  "f8ace0a1-caf4-4a1e-ae48-dc07f2965a2a",
+        "OriginatingServer":  "",
+        "ObjectState":  "Changed"
+    },
+    {
+        "Mode":  "Enable",
+        "DisplayName":  "Default HR \u0026 Privacy Info Protection Policy",
+        "Type":  "Dlp",
+        "ExchangeLocation":  [
+                                 {
+                                     "DisplayName":  "All",
+                                     "Name":  "All",
+                                     "ImmutableIdentity":  "All",
+                                     "Type":  {
+                                                  "value":  1,
+                                                  "Value":  "Tenant"
+                                              },
+                                     "Status":  {
+                                                    "value":  2,
+                                                    "Value":  "Success"
+                                                },
+                                     "Workload":  {
+                                                      "value":  1,
+                                                      "Value":  "Exchange"
+                                                  },
+                                     "SourceType":  null,
+                                     "SchemaVersion":  2,
+                                     "Resources":  null
+                                 }
+                             ],
+        "SharePointLocation":  [
+                                   {
+                                       "DisplayName":  "All",
+                                       "Name":  "All",
+                                       "ImmutableIdentity":  "All",
+                                       "Type":  {
+                                                    "value":  1,
+                                                    "Value":  "Tenant"
+                                                },
+                                       "Status":  {
+                                                      "value":  2,
+                                                      "Value":  "Success"
+                                                  },
+                                       "Workload":  {
+                                                        "value":  2,
+                                                        "Value":  "SharePoint"
+                                                    },
+                                       "SourceType":  null,
+                                       "SchemaVersion":  2,
+                                       "Resources":  null
+                                   }
+                               ],
+        "SharePointLocationException":  [
+
+                                        ],
+        "OneDriveLocation":  [
+                                 {
+                                     "DisplayName":  "All",
+                                     "Name":  "All",
+                                     "ImmutableIdentity":  "All",
+                                     "Type":  {
+                                                  "value":  1,
+                                                  "Value":  "Tenant"
+                                              },
+                                     "Status":  {
+                                                    "value":  2,
+                                                    "Value":  "Success"
+                                                },
+                                     "Workload":  {
+                                                      "value":  8,
+                                                      "Value":  "OneDriveForBusiness"
+                                                  },
+                                     "SourceType":  null,
+                                     "SchemaVersion":  2,
+                                     "Resources":  null
+                                 }
+                             ],
+        "OneDriveLocationException":  [
+
+                                      ],
+        "ExchangeOnPremisesLocation":  [
+
+                                       ],
+        "SharePointOnPremisesLocation":  [
+
+                                         ],
+        "SharePointOnPremisesLocationException":  [
+
+                                                  ],
+        "TeamsLocation":  [
+                              {
+                                  "DisplayName":  "All",
+                                  "Name":  "All",
+                                  "ImmutableIdentity":  "All",
+                                  "Type":  {
+                                               "value":  1,
+                                               "Value":  "Tenant"
+                                           },
+                                  "Status":  {
+                                                 "value":  2,
+                                                 "Value":  "Success"
+                                             },
+                                  "Workload":  {
+                                                   "value":  2048,
+                                                   "Value":  "Teams"
+                                               },
+                                  "SourceType":  null,
+                                  "SchemaVersion":  2,
+                                  "Resources":  null
+                              }
+                          ],
+        "TeamsLocationException":  [
+
+                                   ],
+        "EndpointDlpLocation":  [
+                                    {
+                                        "DisplayName":  "All",
+                                        "Name":  "All",
+                                        "ImmutableIdentity":  "All",
+                                        "Type":  {
+                                                     "value":  1,
+                                                     "Value":  "Tenant"
+                                                 },
+                                        "Status":  {
+                                                       "value":  2,
+                                                       "Value":  "Success"
+                                                   },
+                                        "Workload":  {
+                                                         "value":  8192,
+                                                         "Value":  "EndpointDevices"
+                                                     },
+                                        "SourceType":  null,
+                                        "SchemaVersion":  2,
+                                        "Resources":  null
+                                    }
+                                ],
+        "EndpointDlpLocationException":  [
+
+                                         ],
+        "ThirdPartyAppDlpLocation":  [
+
+                                     ],
+        "ThirdPartyAppDlpLocationException":  [
+
+                                              ],
+        "OnPremisesScannerDlpLocation":  [
+
+                                         ],
+        "OnPremisesScannerDlpLocationException":  [
+
+                                                  ],
+        "PowerBIDlpLocation":  [
+
+                               ],
+        "PowerBIDlpLocationException":  [
+
+                                        ],
+        "Locations":  "",
+        "LocationInclusions":  [
+
+                               ],
+        "LocationExclusions":  [
+
+                               ],
+        "EndpointDlpExtendedLocations":  "",
+        "ExchangeSender":  [
+
+                           ],
+        "ExchangeSenderException":  [
+
+                                    ],
+        "PolicyTemplateInfo":  null,
+        "MatchedItemsCount":  null,
+        "TotalItemsCount":  null,
+        "TopNLocationStatistics":  null,
+        "WorkloadStatistics":  null,
+        "IsSimulationPolicy":  false,
+        "SimulationStatus":  null,
+        "AutoEnableAfter":  null,
+        "IsFromSmartInsights":  null,
+        "IsColdDataSimulationPolicy":  false,
+        "ExtendedProperties":  null,
+        "Summary":  false,
+        "OneDriveSharedBy":  [
+
+                             ],
+        "ExceptIfOneDriveSharedBy":  [
+
+                                     ],
+        "OneDriveSharedByMemberOf":  [
+
+                                     ],
+        "ExceptIfOneDriveSharedByMemberOf":  [
+
+                                             ],
+        "ExchangeSenderMemberOf":  [
+
+                                   ],
+        "ExchangeSenderMemberOfException":  [
+
+                                            ],
+        "ExchangeAdaptiveScopes":  null,
+        "ExchangeAdaptiveScopesException":  null,
+        "SharePointAdaptiveScopes":  null,
+        "SharePointAdaptiveScopesException":  null,
+        "OneDriveAdaptiveScopes":  null,
+        "OneDriveAdaptiveScopesException":  null,
+        "TeamsAdaptiveScopes":  null,
+        "TeamsAdaptiveScopesException":  null,
+        "EndpointDlpAdaptiveScopes":  null,
+        "EndpointDlpAdaptiveScopesException":  null,
+        "ExpectedLocations":  0,
+        "CompletedLocations":  0,
+        "FailedLocations":  0,
+        "ItemStatistics":  null,
+        "RuleMatchBlob":  null,
+        "ErrorMetadata":  null,
+        "UserAdministrativeUnitMembershipMap":  null,
+        "ForceValidate":  false,
+        "PolicyRulesMetaData":  "",
+        "ReusableComponentType":  "Unknown",
+        "Workload":  "Exchange, SharePoint, OneDriveForBusiness, Teams, EndpointDevices",
+        "Priority":  3,
+        "ObjectVersion":  "ab50f027-6abe-4871-04ce-08db1be4dd2b",
+        "CreatedBy":  "msp anil. Ranjan",
+        "LastModifiedBy":  "msp anil. Ranjan",
+        "ReadOnly":  false,
+        "ExternalIdentity":  "",
+        "Comment":  "",
+        "Enabled":  true,
+        "DistributionStatus":  "Pending",
+        "DistributionSyncStatus":  "Unknown",
+        "DistributionResults":  null,
+        "LastStatusUpdateTime":  null,
+        "ModificationTimeUtc":  "\/Date(1677847398013)\/",
+        "CreationTimeUtc":  "\/Date(1677847398013)\/",
+        "PolicyRBACScopes":  [
+
+                             ],
+        "Identity":  "FFO.extest.microsoft.com/Microsoft Exchange Hosted Organizations/wmslab.onmicrosoft.com/Configuration/Default HR \u0026 Privacy Info Protection Policy",
+        "Id":  "FFO.extest.microsoft.com/Microsoft Exchange Hosted Organizations/wmslab.onmicrosoft.com/Configuration/Default HR \u0026 Privacy Info Protection Policy",
+        "IsValid":  true,
+        "ExchangeVersion":  "0.20 (15.0.0.0)",
+        "Name":  "Default HR \u0026 Privacy Info Protection Policy",
+        "DistinguishedName":  "CN=Default HR \u0026 Privacy Info Protection Policy,CN=Configuration,CN=wmslab.onmicrosoft.com,OU=Microsoft Exchange Hosted Organizations,DC=FFO,DC=extest,DC=microsoft,DC=com",
+        "ObjectCategory":  null,
+        "ObjectClass":  [
+                            "msExchUnifiedPolicy"
+                        ],
+        "WhenChanged":  "\/Date(1677847398000)\/",
+        "WhenCreated":  "\/Date(1677847398000)\/",
+        "WhenChangedUTC":  "\/Date(1677847398000)\/",
+        "WhenCreatedUTC":  "\/Date(1677847398000)\/",
+        "ExchangeObjectId":  "95efb2e1-d891-43ec-bb73-833fcc2bf4bb",
+        "OrganizationalUnitRoot":  "FFO.extest.microsoft.com/Microsoft Exchange Hosted Organizations/wmslab.onmicrosoft.com",
+        "OrganizationId":  "FFO.extest.microsoft.com/Microsoft Exchange Hosted Organizations/wmslab.onmicrosoft.com - FFO.extest.microsoft.com/Microsoft Exchange Hosted Organizations/wmslab.onmicrosoft.com/Configuration",
+        "Guid":  "95efb2e1-d891-43ec-bb73-833fcc2bf4bb",
+        "OriginatingServer":  "",
+        "ObjectState":  "New"
+    },
+    {
+        "Mode":  "TestWithNotifications",
+        "DisplayName":  "PCI Data Security Standard (PCI DSS)",
+        "Type":  "Dlp",
+        "ExchangeLocation":  [
+
+                             ],
+        "SharePointLocation":  [
+
+                               ],
+        "SharePointLocationException":  [
+
+                                        ],
+        "OneDriveLocation":  [
+
+                             ],
+        "OneDriveLocationException":  [
+
+                                      ],
+        "ExchangeOnPremisesLocation":  [
+
+                                       ],
+        "SharePointOnPremisesLocation":  [
+
+                                         ],
+        "SharePointOnPremisesLocationException":  [
+
+                                                  ],
+        "TeamsLocation":  [
+
+                          ],
+        "TeamsLocationException":  [
+
+                                   ],
+        "EndpointDlpLocation":  [
+                                    {
+                                        "DisplayName":  "aipuser1",
+                                        "Name":  "aipuser1@wmslab.net",
+                                        "ImmutableIdentity":  "f953480a-51de-4625-a34e-549238aa779a",
+                                        "Type":  {
+                                                     "value":  0,
+                                                     "Value":  "IndividualResource"
+                                                 },
+                                        "Status":  {
+                                                       "value":  2,
+                                                       "Value":  "Success"
+                                                   },
+                                        "Workload":  {
+                                                         "value":  8192,
+                                                         "Value":  "EndpointDevices"
+                                                     },
+                                        "SourceType":  null,
+                                        "SchemaVersion":  2,
+                                        "Resources":  null
+                                    }
+                                ],
+        "EndpointDlpLocationException":  [
+
+                                         ],
+        "ThirdPartyAppDlpLocation":  [
+                                         {
+                                             "DisplayName":  "All",
+                                             "Name":  "All",
+                                             "ImmutableIdentity":  "All",
+                                             "Type":  {
+                                                          "value":  1,
+                                                          "Value":  "Tenant"
+                                                      },
+                                             "Status":  {
+                                                            "value":  2,
+                                                            "Value":  "Success"
+                                                        },
+                                             "Workload":  {
+                                                              "value":  16384,
+                                                              "Value":  "ThirdPartyApps"
+                                                          },
+                                             "SourceType":  null,
+                                             "SchemaVersion":  2,
+                                             "Resources":  null
+                                         }
+                                     ],
+        "ThirdPartyAppDlpLocationException":  [
+
+                                              ],
+        "OnPremisesScannerDlpLocation":  [
+                                             {
+                                                 "DisplayName":  "All",
+                                                 "Name":  "All",
+                                                 "ImmutableIdentity":  "All",
+                                                 "Type":  {
+                                                              "value":  1,
+                                                              "Value":  "Tenant"
+                                                          },
+                                                 "Status":  {
+                                                                "value":  2,
+                                                                "Value":  "Success"
+                                                            },
+                                                 "Workload":  {
+                                                                  "value":  32768,
+                                                                  "Value":  "OnPremisesScanner"
+                                                              },
+                                                 "SourceType":  null,
+                                                 "SchemaVersion":  2,
+                                                 "Resources":  null
+                                             }
+                                         ],
+        "OnPremisesScannerDlpLocationException":  [
+
+                                                  ],
+        "PowerBIDlpLocation":  [
+
+                               ],
+        "PowerBIDlpLocationException":  [
+
+                                        ],
+        "Locations":  "",
+        "LocationInclusions":  [
+
+                               ],
+        "LocationExclusions":  [
+
+                               ],
+        "EndpointDlpExtendedLocations":  "",
+        "ExchangeSender":  [
+
+                           ],
+        "ExchangeSenderException":  [
+
+                                    ],
+        "PolicyTemplateInfo":  null,
+        "MatchedItemsCount":  null,
+        "TotalItemsCount":  null,
+        "TopNLocationStatistics":  null,
+        "WorkloadStatistics":  null,
+        "IsSimulationPolicy":  true,
+        "SimulationStatus":  null,
+        "AutoEnableAfter":  null,
+        "IsFromSmartInsights":  null,
+        "IsColdDataSimulationPolicy":  false,
+        "ExtendedProperties":  null,
+        "Summary":  false,
+        "OneDriveSharedBy":  [
+
+                             ],
+        "ExceptIfOneDriveSharedBy":  [
+
+                                     ],
+        "OneDriveSharedByMemberOf":  [
+
+                                     ],
+        "ExceptIfOneDriveSharedByMemberOf":  [
+
+                                             ],
+        "ExchangeSenderMemberOf":  [
+
+                                   ],
+        "ExchangeSenderMemberOfException":  [
+
+                                            ],
+        "ExchangeAdaptiveScopes":  null,
+        "ExchangeAdaptiveScopesException":  null,
+        "SharePointAdaptiveScopes":  null,
+        "SharePointAdaptiveScopesException":  null,
+        "OneDriveAdaptiveScopes":  null,
+        "OneDriveAdaptiveScopesException":  null,
+        "TeamsAdaptiveScopes":  null,
+        "TeamsAdaptiveScopesException":  null,
+        "EndpointDlpAdaptiveScopes":  null,
+        "EndpointDlpAdaptiveScopesException":  null,
+        "ExpectedLocations":  0,
+        "CompletedLocations":  0,
+        "FailedLocations":  0,
+        "ItemStatistics":  null,
+        "RuleMatchBlob":  null,
+        "ErrorMetadata":  null,
+        "UserAdministrativeUnitMembershipMap":  null,
+        "ForceValidate":  false,
+        "PolicyRulesMetaData":  "{\"WhenRulesChangedUtc\":\"2024-05-13T15:29:28.4092123Z\"}",
+        "ReusableComponentType":  "Unknown",
+        "Workload":  "Exchange, SharePoint, OneDriveForBusiness, EndpointDevices, ThirdPartyApps, OnPremisesScanner",
+        "Priority":  4,
+        "ObjectVersion":  "73bf0a44-1938-41ac-6cdb-08dc73617a81",
+        "CreatedBy":  "msp anil. Ranjan",
+        "LastModifiedBy":  "msp anil. Ranjan",
+        "ReadOnly":  false,
+        "ExternalIdentity":  "",
+        "Comment":  "Helps detect the presence of information subject to PCI Data Security Standard (PCI DSS), including information like credit card or debit card numbers.",
+        "Enabled":  true,
+        "DistributionStatus":  "Pending",
+        "DistributionSyncStatus":  "Unknown",
+        "DistributionResults":  null,
+        "LastStatusUpdateTime":  null,
+        "ModificationTimeUtc":  "\/Date(1715614168410)\/",
+        "CreationTimeUtc":  "\/Date(1681135341077)\/",
+        "PolicyRBACScopes":  [
+
+                             ],
+        "Identity":  "FFO.extest.microsoft.com/Microsoft Exchange Hosted Organizations/wmslab.onmicrosoft.com/Configuration/PCI Data Security Standard (PCI DSS)",
+        "Id":  "FFO.extest.microsoft.com/Microsoft Exchange Hosted Organizations/wmslab.onmicrosoft.com/Configuration/PCI Data Security Standard (PCI DSS)",
+        "IsValid":  true,
+        "ExchangeVersion":  "0.20 (15.0.0.0)",
+        "Name":  "PCI Data Security Standard (PCI DSS)",
+        "DistinguishedName":  "CN=PCI Data Security Standard (PCI DSS),CN=Configuration,CN=wmslab.onmicrosoft.com,OU=Microsoft Exchange Hosted Organizations,DC=FFO,DC=extest,DC=microsoft,DC=com",
+        "ObjectCategory":  null,
+        "ObjectClass":  [
+                            "msExchUnifiedPolicy"
+                        ],
+        "WhenChanged":  "\/Date(1715614168000)\/",
+        "WhenCreated":  "\/Date(1681135341000)\/",
+        "WhenChangedUTC":  "\/Date(1715614168000)\/",
+        "WhenCreatedUTC":  "\/Date(1681135341000)\/",
+        "ExchangeObjectId":  "7c3c8aa2-6a29-4f75-b391-7dc502abd77b",
+        "OrganizationalUnitRoot":  "FFO.extest.microsoft.com/Microsoft Exchange Hosted Organizations/wmslab.onmicrosoft.com",
+        "OrganizationId":  "FFO.extest.microsoft.com/Microsoft Exchange Hosted Organizations/wmslab.onmicrosoft.com - FFO.extest.microsoft.com/Microsoft Exchange Hosted Organizations/wmslab.onmicrosoft.com/Configuration",
+        "Guid":  "7c3c8aa2-6a29-4f75-b391-7dc502abd77b",
+        "OriginatingServer":  "",
+        "ObjectState":  "Changed"
+    },
+    {
+        "Mode":  "TestWithoutNotifications",
+        "DisplayName":  "Adaptive Protection policy for Endpoint DLP",
+        "Type":  "Dlp",
+        "ExchangeLocation":  [
+
+                             ],
+        "SharePointLocation":  [
+
+                               ],
+        "SharePointLocationException":  [
+
+                                        ],
+        "OneDriveLocation":  [
+
+                             ],
+        "OneDriveLocationException":  [
+
+                                      ],
+        "ExchangeOnPremisesLocation":  [
+
+                                       ],
+        "SharePointOnPremisesLocation":  [
+
+                                         ],
+        "SharePointOnPremisesLocationException":  [
+
+                                                  ],
+        "TeamsLocation":  [
+
+                          ],
+        "TeamsLocationException":  [
+
+                                   ],
+        "EndpointDlpLocation":  [
+                                    {
+                                        "DisplayName":  "All",
+                                        "Name":  "All",
+                                        "ImmutableIdentity":  "All",
+                                        "Type":  {
+                                                     "value":  1,
+                                                     "Value":  "Tenant"
+                                                 },
+                                        "Status":  {
+                                                       "value":  2,
+                                                       "Value":  "Success"
+                                                   },
+                                        "Workload":  {
+                                                         "value":  8192,
+                                                         "Value":  "EndpointDevices"
+                                                     },
+                                        "SourceType":  null,
+                                        "SchemaVersion":  2,
+                                        "Resources":  null
+                                    }
+                                ],
+        "EndpointDlpLocationException":  [
+
+                                         ],
+        "ThirdPartyAppDlpLocation":  [
+
+                                     ],
+        "ThirdPartyAppDlpLocationException":  [
+
+                                              ],
+        "OnPremisesScannerDlpLocation":  [
+
+                                         ],
+        "OnPremisesScannerDlpLocationException":  [
+
+                                                  ],
+        "PowerBIDlpLocation":  [
+
+                               ],
+        "PowerBIDlpLocationException":  [
+
+                                        ],
+        "Locations":  "",
+        "LocationInclusions":  [
+
+                               ],
+        "LocationExclusions":  [
+
+                               ],
+        "EndpointDlpExtendedLocations":  "",
+        "ExchangeSender":  [
+
+                           ],
+        "ExchangeSenderException":  [
+
+                                    ],
+        "PolicyTemplateInfo":  {
+                                   "Id":  "DlpPolicyTemplatesCustom",
+                                   "CategoryId":  "DlpPolicyCategoryCustom"
+                               },
+        "MatchedItemsCount":  null,
+        "TotalItemsCount":  null,
+        "TopNLocationStatistics":  null,
+        "WorkloadStatistics":  null,
+        "IsSimulationPolicy":  true,
+        "SimulationStatus":  null,
+        "AutoEnableAfter":  null,
+        "IsFromSmartInsights":  null,
+        "IsColdDataSimulationPolicy":  false,
+        "ExtendedProperties":  null,
+        "Summary":  false,
+        "OneDriveSharedBy":  [
+
+                             ],
+        "ExceptIfOneDriveSharedBy":  [
+
+                                     ],
+        "OneDriveSharedByMemberOf":  [
+
+                                     ],
+        "ExceptIfOneDriveSharedByMemberOf":  [
+
+                                             ],
+        "ExchangeSenderMemberOf":  [
+
+                                   ],
+        "ExchangeSenderMemberOfException":  [
+
+                                            ],
+        "ExchangeAdaptiveScopes":  null,
+        "ExchangeAdaptiveScopesException":  null,
+        "SharePointAdaptiveScopes":  null,
+        "SharePointAdaptiveScopesException":  null,
+        "OneDriveAdaptiveScopes":  null,
+        "OneDriveAdaptiveScopesException":  null,
+        "TeamsAdaptiveScopes":  null,
+        "TeamsAdaptiveScopesException":  null,
+        "EndpointDlpAdaptiveScopes":  null,
+        "EndpointDlpAdaptiveScopesException":  null,
+        "ExpectedLocations":  0,
+        "CompletedLocations":  0,
+        "FailedLocations":  0,
+        "ItemStatistics":  null,
+        "RuleMatchBlob":  null,
+        "ErrorMetadata":  null,
+        "UserAdministrativeUnitMembershipMap":  null,
+        "ForceValidate":  false,
+        "PolicyRulesMetaData":  "{\"WhenRulesChangedUtc\":\"2024-03-23T13:35:21.0454963Z\"}",
+        "ReusableComponentType":  "Unknown",
+        "Workload":  "Exchange, SharePoint, OneDriveForBusiness, EndpointDevices",
+        "Priority":  5,
+        "ObjectVersion":  "21c80b4c-38a5-488c-63b3-08dc4b3e1617",
+        "CreatedBy":  "msp anil. Ranjan",
+        "LastModifiedBy":  "msp anil. Ranjan",
+        "ReadOnly":  false,
+        "ExternalIdentity":  "",
+        "Comment":  "This is the default Adaptive Protection policy for Endpoint location.",
+        "Enabled":  true,
+        "DistributionStatus":  "Pending",
+        "DistributionSyncStatus":  "Unknown",
+        "DistributionResults":  null,
+        "LastStatusUpdateTime":  null,
+        "ModificationTimeUtc":  "\/Date(1711200921047)\/",
+        "CreationTimeUtc":  "\/Date(1711200907937)\/",
+        "PolicyRBACScopes":  [
+
+                             ],
+        "Identity":  "FFO.extest.microsoft.com/Microsoft Exchange Hosted Organizations/wmslab.onmicrosoft.com/Configuration/Adaptive Protection policy for Endpoint DLP",
+        "Id":  "FFO.extest.microsoft.com/Microsoft Exchange Hosted Organizations/wmslab.onmicrosoft.com/Configuration/Adaptive Protection policy for Endpoint DLP",
+        "IsValid":  true,
+        "ExchangeVersion":  "0.20 (15.0.0.0)",
+        "Name":  "Adaptive Protection policy for Endpoint DLP",
+        "DistinguishedName":  "CN=Adaptive Protection policy for Endpoint DLP,CN=Configuration,CN=wmslab.onmicrosoft.com,OU=Microsoft Exchange Hosted Organizations,DC=FFO,DC=extest,DC=microsoft,DC=com",
+        "ObjectCategory":  null,
+        "ObjectClass":  [
+                            "msExchUnifiedPolicy"
+                        ],
+        "WhenChanged":  "\/Date(1711200921000)\/",
+        "WhenCreated":  "\/Date(1711200907000)\/",
+        "WhenChangedUTC":  "\/Date(1711200921000)\/",
+        "WhenCreatedUTC":  "\/Date(1711200907000)\/",
+        "ExchangeObjectId":  "ed2a9adb-3fdd-48ad-bdb2-b74b502f939e",
+        "OrganizationalUnitRoot":  "FFO.extest.microsoft.com/Microsoft Exchange Hosted Organizations/wmslab.onmicrosoft.com",
+        "OrganizationId":  "FFO.extest.microsoft.com/Microsoft Exchange Hosted Organizations/wmslab.onmicrosoft.com - FFO.extest.microsoft.com/Microsoft Exchange Hosted Organizations/wmslab.onmicrosoft.com/Configuration",
+        "Guid":  "ed2a9adb-3fdd-48ad-bdb2-b74b502f939e",
+        "OriginatingServer":  "",
+        "ObjectState":  "Changed"
+    },
+    {
+        "Mode":  "TestWithoutNotifications",
+        "DisplayName":  "Adaptive Protection policy for Teams and Exchange DLP",
+        "Type":  "Dlp",
+        "ExchangeLocation":  [
+                                 {
+                                     "DisplayName":  "All",
+                                     "Name":  "All",
+                                     "ImmutableIdentity":  "All",
+                                     "Type":  {
+                                                  "value":  1,
+                                                  "Value":  "Tenant"
+                                              },
+                                     "Status":  {
+                                                    "value":  2,
+                                                    "Value":  "Success"
+                                                },
+                                     "Workload":  {
+                                                      "value":  1,
+                                                      "Value":  "Exchange"
+                                                  },
+                                     "SourceType":  null,
+                                     "SchemaVersion":  2,
+                                     "Resources":  null
+                                 }
+                             ],
+        "SharePointLocation":  [
+
+                               ],
+        "SharePointLocationException":  [
+
+                                        ],
+        "OneDriveLocation":  [
+
+                             ],
+        "OneDriveLocationException":  [
+
+                                      ],
+        "ExchangeOnPremisesLocation":  [
+
+                                       ],
+        "SharePointOnPremisesLocation":  [
+
+                                         ],
+        "SharePointOnPremisesLocationException":  [
+
+                                                  ],
+        "TeamsLocation":  [
+                              {
+                                  "DisplayName":  "All",
+                                  "Name":  "All",
+                                  "ImmutableIdentity":  "All",
+                                  "Type":  {
+                                               "value":  1,
+                                               "Value":  "Tenant"
+                                           },
+                                  "Status":  {
+                                                 "value":  2,
+                                                 "Value":  "Success"
+                                             },
+                                  "Workload":  {
+                                                   "value":  2048,
+                                                   "Value":  "Teams"
+                                               },
+                                  "SourceType":  null,
+                                  "SchemaVersion":  2,
+                                  "Resources":  null
+                              }
+                          ],
+        "TeamsLocationException":  [
+
+                                   ],
+        "EndpointDlpLocation":  [
+
+                                ],
+        "EndpointDlpLocationException":  [
+
+                                         ],
+        "ThirdPartyAppDlpLocation":  [
+
+                                     ],
+        "ThirdPartyAppDlpLocationException":  [
+
+                                              ],
+        "OnPremisesScannerDlpLocation":  [
+
+                                         ],
+        "OnPremisesScannerDlpLocationException":  [
+
+                                                  ],
+        "PowerBIDlpLocation":  [
+
+                               ],
+        "PowerBIDlpLocationException":  [
+
+                                        ],
+        "Locations":  "",
+        "LocationInclusions":  [
+
+                               ],
+        "LocationExclusions":  [
+
+                               ],
+        "EndpointDlpExtendedLocations":  "",
+        "ExchangeSender":  [
+
+                           ],
+        "ExchangeSenderException":  [
+
+                                    ],
+        "PolicyTemplateInfo":  {
+                                   "Id":  "DlpPolicyTemplatesCustom",
+                                   "CategoryId":  "DlpPolicyCategoryCustom"
+                               },
+        "MatchedItemsCount":  null,
+        "TotalItemsCount":  null,
+        "TopNLocationStatistics":  null,
+        "WorkloadStatistics":  null,
+        "IsSimulationPolicy":  true,
+        "SimulationStatus":  null,
+        "AutoEnableAfter":  null,
+        "IsFromSmartInsights":  null,
+        "IsColdDataSimulationPolicy":  false,
+        "ExtendedProperties":  null,
+        "Summary":  false,
+        "OneDriveSharedBy":  [
+
+                             ],
+        "ExceptIfOneDriveSharedBy":  [
+
+                                     ],
+        "OneDriveSharedByMemberOf":  [
+
+                                     ],
+        "ExceptIfOneDriveSharedByMemberOf":  [
+
+                                             ],
+        "ExchangeSenderMemberOf":  [
+
+                                   ],
+        "ExchangeSenderMemberOfException":  [
+
+                                            ],
+        "ExchangeAdaptiveScopes":  null,
+        "ExchangeAdaptiveScopesException":  null,
+        "SharePointAdaptiveScopes":  null,
+        "SharePointAdaptiveScopesException":  null,
+        "OneDriveAdaptiveScopes":  null,
+        "OneDriveAdaptiveScopesException":  null,
+        "TeamsAdaptiveScopes":  null,
+        "TeamsAdaptiveScopesException":  null,
+        "EndpointDlpAdaptiveScopes":  null,
+        "EndpointDlpAdaptiveScopesException":  null,
+        "ExpectedLocations":  0,
+        "CompletedLocations":  0,
+        "FailedLocations":  0,
+        "ItemStatistics":  null,
+        "RuleMatchBlob":  null,
+        "ErrorMetadata":  null,
+        "UserAdministrativeUnitMembershipMap":  null,
+        "ForceValidate":  false,
+        "PolicyRulesMetaData":  "{\"WhenRulesChangedUtc\":\"2024-03-23T13:35:33.5143377Z\"}",
+        "ReusableComponentType":  "Unknown",
+        "Workload":  "Exchange, SharePoint, OneDriveForBusiness, Teams",
+        "Priority":  6,
+        "ObjectVersion":  "851cba29-5a4e-4b87-fbd1-08dc4b3e1d85",
+        "CreatedBy":  "msp anil. Ranjan",
+        "LastModifiedBy":  "msp anil. Ranjan",
+        "ReadOnly":  false,
+        "ExternalIdentity":  "",
+        "Comment":  "This is the default Adaptive Protection policy for Teams and Exchange locations.",
+        "Enabled":  true,
+        "DistributionStatus":  "Pending",
+        "DistributionSyncStatus":  "Unknown",
+        "DistributionResults":  null,
+        "LastStatusUpdateTime":  null,
+        "ModificationTimeUtc":  "\/Date(1711200933513)\/",
+        "CreationTimeUtc":  "\/Date(1711200924107)\/",
+        "PolicyRBACScopes":  [
+
+                             ],
+        "Identity":  "FFO.extest.microsoft.com/Microsoft Exchange Hosted Organizations/wmslab.onmicrosoft.com/Configuration/Adaptive Protection policy for Teams and Exchange DLP",
+        "Id":  "FFO.extest.microsoft.com/Microsoft Exchange Hosted Organizations/wmslab.onmicrosoft.com/Configuration/Adaptive Protection policy for Teams and Exchange DLP",
+        "IsValid":  true,
+        "ExchangeVersion":  "0.20 (15.0.0.0)",
+        "Name":  "Adaptive Protection policy for Teams and Exchange DLP",
+        "DistinguishedName":  "CN=Adaptive Protection policy for Teams and Exchange DLP,CN=Configuration,CN=wmslab.onmicrosoft.com,OU=Microsoft Exchange Hosted Organizations,DC=FFO,DC=extest,DC=microsoft,DC=com",
+        "ObjectCategory":  null,
+        "ObjectClass":  [
+                            "msExchUnifiedPolicy"
+                        ],
+        "WhenChanged":  "\/Date(1711200933000)\/",
+        "WhenCreated":  "\/Date(1711200924000)\/",
+        "WhenChangedUTC":  "\/Date(1711200933000)\/",
+        "WhenCreatedUTC":  "\/Date(1711200924000)\/",
+        "ExchangeObjectId":  "700ffed4-c67c-47de-8287-73cb7b9c15c3",
+        "OrganizationalUnitRoot":  "FFO.extest.microsoft.com/Microsoft Exchange Hosted Organizations/wmslab.onmicrosoft.com",
+        "OrganizationId":  "FFO.extest.microsoft.com/Microsoft Exchange Hosted Organizations/wmslab.onmicrosoft.com - FFO.extest.microsoft.com/Microsoft Exchange Hosted Organizations/wmslab.onmicrosoft.com/Configuration",
+        "Guid":  "700ffed4-c67c-47de-8287-73cb7b9c15c3",
+        "OriginatingServer":  "",
+        "ObjectState":  "Changed"
+    },
+    {
+        "Mode":  "TestWithNotifications",
+        "DisplayName":  "Microsoft AI hub - Adaptive Protection in AI assistants",
+        "Type":  "Dlp",
+        "ExchangeLocation":  [
+
+                             ],
+        "SharePointLocation":  [
+
+                               ],
+        "SharePointLocationException":  [
+
+                                        ],
+        "OneDriveLocation":  [
+
+                             ],
+        "OneDriveLocationException":  [
+
+                                      ],
+        "ExchangeOnPremisesLocation":  [
+
+                                       ],
+        "SharePointOnPremisesLocation":  [
+
+                                         ],
+        "SharePointOnPremisesLocationException":  [
+
+                                                  ],
+        "TeamsLocation":  [
+
+                          ],
+        "TeamsLocationException":  [
+
+                                   ],
+        "EndpointDlpLocation":  [
+                                    {
+                                        "DisplayName":  "All",
+                                        "Name":  "All",
+                                        "ImmutableIdentity":  "All",
+                                        "Type":  {
+                                                     "value":  1,
+                                                     "Value":  "Tenant"
+                                                 },
+                                        "Status":  {
+                                                       "value":  2,
+                                                       "Value":  "Success"
+                                                   },
+                                        "Workload":  {
+                                                         "value":  8192,
+                                                         "Value":  "EndpointDevices"
+                                                     },
+                                        "SourceType":  null,
+                                        "SchemaVersion":  2,
+                                        "Resources":  null
+                                    }
+                                ],
+        "EndpointDlpLocationException":  [
+
+                                         ],
+        "ThirdPartyAppDlpLocation":  [
+
+                                     ],
+        "ThirdPartyAppDlpLocationException":  [
+
+                                              ],
+        "OnPremisesScannerDlpLocation":  [
+
+                                         ],
+        "OnPremisesScannerDlpLocationException":  [
+
+                                                  ],
+        "PowerBIDlpLocation":  [
+
+                               ],
+        "PowerBIDlpLocationException":  [
+
+                                        ],
+        "Locations":  "",
+        "LocationInclusions":  [
+
+                               ],
+        "LocationExclusions":  [
+
+                               ],
+        "EndpointDlpExtendedLocations":  "",
+        "ExchangeSender":  [
+
+                           ],
+        "ExchangeSenderException":  [
+
+                                    ],
+        "PolicyTemplateInfo":  {
+                                   "Id":  "DlpPolicyTemplatesCustom",
+                                   "CategoryId":  "DlpPolicyCategoryCustom"
+                               },
+        "MatchedItemsCount":  null,
+        "TotalItemsCount":  null,
+        "TopNLocationStatistics":  null,
+        "WorkloadStatistics":  null,
+        "IsSimulationPolicy":  true,
+        "SimulationStatus":  null,
+        "AutoEnableAfter":  null,
+        "IsFromSmartInsights":  null,
+        "IsColdDataSimulationPolicy":  false,
+        "ExtendedProperties":  null,
+        "Summary":  false,
+        "OneDriveSharedBy":  [
+
+                             ],
+        "ExceptIfOneDriveSharedBy":  [
+
+                                     ],
+        "OneDriveSharedByMemberOf":  [
+
+                                     ],
+        "ExceptIfOneDriveSharedByMemberOf":  [
+
+                                             ],
+        "ExchangeSenderMemberOf":  [
+
+                                   ],
+        "ExchangeSenderMemberOfException":  [
+
+                                            ],
+        "ExchangeAdaptiveScopes":  null,
+        "ExchangeAdaptiveScopesException":  null,
+        "SharePointAdaptiveScopes":  null,
+        "SharePointAdaptiveScopesException":  null,
+        "OneDriveAdaptiveScopes":  null,
+        "OneDriveAdaptiveScopesException":  null,
+        "TeamsAdaptiveScopes":  null,
+        "TeamsAdaptiveScopesException":  null,
+        "EndpointDlpAdaptiveScopes":  null,
+        "EndpointDlpAdaptiveScopesException":  null,
+        "ExpectedLocations":  0,
+        "CompletedLocations":  0,
+        "FailedLocations":  0,
+        "ItemStatistics":  null,
+        "RuleMatchBlob":  null,
+        "ErrorMetadata":  null,
+        "UserAdministrativeUnitMembershipMap":  null,
+        "ForceValidate":  false,
+        "PolicyRulesMetaData":  "{\"WhenRulesChangedUtc\":\"2024-05-13T15:27:34.5034439Z\"}",
+        "ReusableComponentType":  "Unknown",
+        "Workload":  "Exchange, SharePoint, OneDriveForBusiness, EndpointDevices",
+        "Priority":  7,
+        "ObjectVersion":  "5c9623c7-b191-45f7-c8c7-08dc7361369c",
+        "CreatedBy":  "msp anil. Ranjan",
+        "LastModifiedBy":  "msp anil. Ranjan",
+        "ReadOnly":  false,
+        "ExternalIdentity":  "",
+        "Comment":  "Uses Adaptive Protection to give a warn-with-override to elevated risk users attempting to paste or upload sensitive information to other AI assistants in Edge, Chrome, and Firefox. This policy covers all users and groups in your org in test mode.",
+        "Enabled":  true,
+        "DistributionStatus":  "Pending",
+        "DistributionSyncStatus":  "Unknown",
+        "DistributionResults":  null,
+        "LastStatusUpdateTime":  null,
+        "ModificationTimeUtc":  "\/Date(1715614054503)\/",
+        "CreationTimeUtc":  "\/Date(1715614044660)\/",
+        "PolicyRBACScopes":  [
+
+                             ],
+        "Identity":  "FFO.extest.microsoft.com/Microsoft Exchange Hosted Organizations/wmslab.onmicrosoft.com/Configuration/Microsoft AI hub - Adaptive Protection in AI assistants",
+        "Id":  "FFO.extest.microsoft.com/Microsoft Exchange Hosted Organizations/wmslab.onmicrosoft.com/Configuration/Microsoft AI hub - Adaptive Protection in AI assistants",
+        "IsValid":  true,
+        "ExchangeVersion":  "0.20 (15.0.0.0)",
+        "Name":  "Microsoft AI hub - Adaptive Protection in AI assistants",
+        "DistinguishedName":  "CN=Microsoft AI hub - Adaptive Protection in AI assistants,CN=Configuration,CN=wmslab.onmicrosoft.com,OU=Microsoft Exchange Hosted Organizations,DC=FFO,DC=extest,DC=microsoft,DC=com",
+        "ObjectCategory":  null,
+        "ObjectClass":  [
+                            "msExchUnifiedPolicy"
+                        ],
+        "WhenChanged":  "\/Date(1715614054000)\/",
+        "WhenCreated":  "\/Date(1715614044000)\/",
+        "WhenChangedUTC":  "\/Date(1715614054000)\/",
+        "WhenCreatedUTC":  "\/Date(1715614044000)\/",
+        "ExchangeObjectId":  "2b178f4a-8c6f-478a-80ce-e3978075c3ca",
+        "OrganizationalUnitRoot":  "FFO.extest.microsoft.com/Microsoft Exchange Hosted Organizations/wmslab.onmicrosoft.com",
+        "OrganizationId":  "FFO.extest.microsoft.com/Microsoft Exchange Hosted Organizations/wmslab.onmicrosoft.com - FFO.extest.microsoft.com/Microsoft Exchange Hosted Organizations/wmslab.onmicrosoft.com/Configuration",
+        "Guid":  "2b178f4a-8c6f-478a-80ce-e3978075c3ca",
+        "OriginatingServer":  "",
+        "ObjectState":  "Changed"
+    }
+]

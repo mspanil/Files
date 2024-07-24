@@ -1,0 +1,218 @@
+﻿{
+    "Mode":  "TestWithNotifications",
+    "DisplayName":  "PCI Data Security Standard (PCI DSS)",
+    "Type":  "Dlp",
+    "ExchangeLocation":  [
+
+                         ],
+    "SharePointLocation":  [
+
+                           ],
+    "SharePointLocationException":  [
+
+                                    ],
+    "OneDriveLocation":  [
+
+                         ],
+    "OneDriveLocationException":  [
+
+                                  ],
+    "ExchangeOnPremisesLocation":  [
+
+                                   ],
+    "SharePointOnPremisesLocation":  [
+
+                                     ],
+    "SharePointOnPremisesLocationException":  [
+
+                                              ],
+    "TeamsLocation":  [
+
+                      ],
+    "TeamsLocationException":  [
+
+                               ],
+    "EndpointDlpLocation":  [
+                                {
+                                    "DisplayName":  "aipuser1",
+                                    "Name":  "aipuser1@wmslab.net",
+                                    "ImmutableIdentity":  "f953480a-51de-4625-a34e-549238aa779a",
+                                    "Type":  {
+                                                 "value":  0,
+                                                 "Value":  "IndividualResource"
+                                             },
+                                    "Status":  {
+                                                   "value":  2,
+                                                   "Value":  "Success"
+                                               },
+                                    "Workload":  {
+                                                     "value":  8192,
+                                                     "Value":  "EndpointDevices"
+                                                 },
+                                    "SourceType":  null,
+                                    "SchemaVersion":  2,
+                                    "Resources":  null
+                                }
+                            ],
+    "EndpointDlpLocationException":  [
+
+                                     ],
+    "ThirdPartyAppDlpLocation":  [
+                                     {
+                                         "DisplayName":  "All",
+                                         "Name":  "All",
+                                         "ImmutableIdentity":  "All",
+                                         "Type":  {
+                                                      "value":  1,
+                                                      "Value":  "Tenant"
+                                                  },
+                                         "Status":  {
+                                                        "value":  2,
+                                                        "Value":  "Success"
+                                                    },
+                                         "Workload":  {
+                                                          "value":  16384,
+                                                          "Value":  "ThirdPartyApps"
+                                                      },
+                                         "SourceType":  null,
+                                         "SchemaVersion":  2,
+                                         "Resources":  null
+                                     }
+                                 ],
+    "ThirdPartyAppDlpLocationException":  [
+
+                                          ],
+    "OnPremisesScannerDlpLocation":  [
+                                         {
+                                             "DisplayName":  "All",
+                                             "Name":  "All",
+                                             "ImmutableIdentity":  "All",
+                                             "Type":  {
+                                                          "value":  1,
+                                                          "Value":  "Tenant"
+                                                      },
+                                             "Status":  {
+                                                            "value":  2,
+                                                            "Value":  "Success"
+                                                        },
+                                             "Workload":  {
+                                                              "value":  32768,
+                                                              "Value":  "OnPremisesScanner"
+                                                          },
+                                             "SourceType":  null,
+                                             "SchemaVersion":  2,
+                                             "Resources":  null
+                                         }
+                                     ],
+    "OnPremisesScannerDlpLocationException":  [
+
+                                              ],
+    "PowerBIDlpLocation":  [
+
+                           ],
+    "PowerBIDlpLocationException":  [
+
+                                    ],
+    "Locations":  "",
+    "LocationInclusions":  [
+
+                           ],
+    "LocationExclusions":  [
+
+                           ],
+    "EndpointDlpExtendedLocations":  "",
+    "ExchangeSender":  [
+
+                       ],
+    "ExchangeSenderException":  [
+
+                                ],
+    "PolicyTemplateInfo":  null,
+    "MatchedItemsCount":  0,
+    "TotalItemsCount":  0,
+    "TopNLocationStatistics":  "{\"ThirdPartyApps\":{},\"Endpoint\":{},\"OnPremisesScanner\":{}}",
+    "WorkloadStatistics":  "{\"ThirdPartyApps\":{},\"Endpoint\":{},\"OnPremisesScanner\":{}}",
+    "IsSimulationPolicy":  true,
+    "SimulationStatus":  "Expired",
+    "AutoEnableAfter":  null,
+    "IsFromSmartInsights":  null,
+    "IsColdDataSimulationPolicy":  false,
+    "ExtendedProperties":  null,
+    "Summary":  false,
+    "OneDriveSharedBy":  [
+
+                         ],
+    "ExceptIfOneDriveSharedBy":  [
+
+                                 ],
+    "OneDriveSharedByMemberOf":  [
+
+                                 ],
+    "ExceptIfOneDriveSharedByMemberOf":  [
+
+                                         ],
+    "ExchangeSenderMemberOf":  [
+
+                               ],
+    "ExchangeSenderMemberOfException":  [
+
+                                        ],
+    "ExchangeAdaptiveScopes":  null,
+    "ExchangeAdaptiveScopesException":  null,
+    "SharePointAdaptiveScopes":  null,
+    "SharePointAdaptiveScopesException":  null,
+    "OneDriveAdaptiveScopes":  null,
+    "OneDriveAdaptiveScopesException":  null,
+    "TeamsAdaptiveScopes":  null,
+    "TeamsAdaptiveScopesException":  null,
+    "EndpointDlpAdaptiveScopes":  null,
+    "EndpointDlpAdaptiveScopesException":  null,
+    "ExpectedLocations":  0,
+    "CompletedLocations":  0,
+    "FailedLocations":  0,
+    "ItemStatistics":  "{}",
+    "RuleMatchBlob":  "{}",
+    "ErrorMetadata":  null,
+    "UserAdministrativeUnitMembershipMap":  null,
+    "ForceValidate":  false,
+    "PolicyRulesMetaData":  "{\"WhenRulesChangedUtc\":\"2024-05-13T15:29:28.4092123Z\"}",
+    "ReusableComponentType":  "Unknown",
+    "Workload":  "Exchange, SharePoint, OneDriveForBusiness, EndpointDevices, ThirdPartyApps, OnPremisesScanner",
+    "Priority":  4,
+    "ObjectVersion":  "73bf0a44-1938-41ac-6cdb-08dc73617a81",
+    "CreatedBy":  "msp anil. Ranjan",
+    "LastModifiedBy":  "msp anil. Ranjan",
+    "ReadOnly":  false,
+    "ExternalIdentity":  "",
+    "Comment":  "Helps detect the presence of information subject to PCI Data Security Standard (PCI DSS), including information like credit card or debit card numbers.",
+    "Enabled":  true,
+    "DistributionStatus":  "Pending",
+    "DistributionSyncStatus":  "Unknown",
+    "DistributionResults":  null,
+    "LastStatusUpdateTime":  null,
+    "ModificationTimeUtc":  "\/Date(1715614168410)\/",
+    "CreationTimeUtc":  "\/Date(1681135341077)\/",
+    "PolicyRBACScopes":  [
+
+                         ],
+    "Identity":  "FFO.extest.microsoft.com/Microsoft Exchange Hosted Organizations/wmslab.onmicrosoft.com/Configuration/PCI Data Security Standard (PCI DSS)",
+    "Id":  "FFO.extest.microsoft.com/Microsoft Exchange Hosted Organizations/wmslab.onmicrosoft.com/Configuration/PCI Data Security Standard (PCI DSS)",
+    "IsValid":  true,
+    "ExchangeVersion":  "0.20 (15.0.0.0)",
+    "Name":  "PCI Data Security Standard (PCI DSS)",
+    "DistinguishedName":  "CN=PCI Data Security Standard (PCI DSS),CN=Configuration,CN=wmslab.onmicrosoft.com,OU=Microsoft Exchange Hosted Organizations,DC=FFO,DC=extest,DC=microsoft,DC=com",
+    "ObjectCategory":  null,
+    "ObjectClass":  [
+                        "msExchUnifiedPolicy"
+                    ],
+    "WhenChanged":  "\/Date(1715614168000)\/",
+    "WhenCreated":  "\/Date(1681135341000)\/",
+    "WhenChangedUTC":  "\/Date(1715614168000)\/",
+    "WhenCreatedUTC":  "\/Date(1681135341000)\/",
+    "ExchangeObjectId":  "7c3c8aa2-6a29-4f75-b391-7dc502abd77b",
+    "OrganizationalUnitRoot":  "FFO.extest.microsoft.com/Microsoft Exchange Hosted Organizations/wmslab.onmicrosoft.com",
+    "OrganizationId":  "FFO.extest.microsoft.com/Microsoft Exchange Hosted Organizations/wmslab.onmicrosoft.com - FFO.extest.microsoft.com/Microsoft Exchange Hosted Organizations/wmslab.onmicrosoft.com/Configuration",
+    "Guid":  "7c3c8aa2-6a29-4f75-b391-7dc502abd77b",
+    "OriginatingServer":  "",
+    "ObjectState":  "Changed"
+}
